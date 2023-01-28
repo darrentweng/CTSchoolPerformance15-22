@@ -1,0 +1,10 @@
+streamlit==1.12.2
+matplotlib==3.6.0
+plotly==5.10.0
+lxml==4.9.1
+yfinance==0.1.74
+bokeh==2.4.3
+pydeck==0.7.1
+seaborn==0.12.0
+statsmodels==0.13.2
+jupyterlab==3.4.7
